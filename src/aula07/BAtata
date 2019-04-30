@@ -1,0 +1,32 @@
+
+package Aula7;
+
+import java.util.Scanner;
+
+public class CondicionalCase {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner (System.in);
+       int d = sc.nextInt();
+       String day;
+       Switch (d){
+        case1:
+        day="domingo"
+        
+        
+    }       
+        
+        
+        
+        
+        
+     
+    }
+
+    private static void Switch(int d) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+   
+
+   
+}
